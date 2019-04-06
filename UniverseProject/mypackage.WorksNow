@@ -1,0 +1,15 @@
+package mypackage;
+public class WorksNow implements Runnable {
+public WorksNow(){}
+private  String Description ;
+private  boolean  Marja ;
+private  int Distanta ;
+public WorksNow( String Description ,  boolean  Marja ,  int Distanta  ){
+this.Description =  " Fdsfsdfsf " ;
+this.Marja =true;
+this.Distanta =232;
+}
+    public void run() {
+        System.out.println("The planet WorksNow was created");
+    }
+}

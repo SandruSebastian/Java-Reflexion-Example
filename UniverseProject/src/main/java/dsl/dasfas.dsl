@@ -1,0 +1,1 @@
+CREATE IDIdddDIT WITH Description = "Fdsfsdfsf" as String,time = "233" as int,Distanta = "232" as int,Marja = "true" as boolean

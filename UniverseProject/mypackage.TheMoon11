@@ -1,0 +1,15 @@
+package mypackage;
+public class TheMoon11 implements Runnable {
+public TheMoon11(){}
+private  String Description ;
+private  boolean  Marja ;
+private  int Distanta ;
+public TheMoon11( String Description ,  boolean  Marja ,  int Distanta  ){
+this.Description =  " Fdsfsdfsf " ;
+this.Marja =true;
+this.Distanta =232;
+}
+    public void run() {
+        System.out.println("The planet TheMoon11 was created");
+    }
+}
