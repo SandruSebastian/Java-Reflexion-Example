@@ -1,4 +1,7 @@
 # Java Reflexion example with dynamically created Java's classes using DSL (Short & Fast )
+
+## Init
+  * Clone it as Maven Project 
 ## DSL ( Domain Specific Language ) Structure  
 #### Commands : 
   * CREATE - creates the .java file with auto-generated java code and .class
